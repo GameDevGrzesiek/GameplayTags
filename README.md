@@ -7,6 +7,8 @@
 </div>
 
 This project is an implementation of gameplay tags, similar to those found in Unreal Engine, for use in Unity. Gameplay tags are a flexible and efficient way to handle and categorize gameplay-related properties and states.
+
+
 THIS IS A FORK OF THE BANDOWARE ORIGINAL IMPLEMENTATION AVAILABLE HERE:
 https://github.com/BandoWare/GameplayTags
 
